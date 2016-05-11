@@ -30,6 +30,6 @@ class Car:
 
     def __str__ (self):
 
-        return "car, fuel = {}, odometer = {}".format(self.fuel, self.odometer)
+        return "car, Fuel = {}, Odometer = {}".format(self.fuel, self.odometer)
 
 
